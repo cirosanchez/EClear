@@ -1,0 +1,5 @@
+name: EClear
+main: me.cirosanchez.eclear.EClear
+version: 1.0
+commands:
+  eclear:

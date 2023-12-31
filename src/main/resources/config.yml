@@ -1,0 +1,6 @@
+
+syntax: "<red>/eclear <target></red>"
+player: "<red>No definiste un jugador!</red>"
+no-player: "<red>%player% no existe!</red>"
+clear: "<yellow>Has limpiado el enderchest de <rainbow>%player%</rainbow>!</yellow>"
+no-permission: "<red>No tienes permisos!</red>"
